@@ -23,7 +23,7 @@ Fully compatible with the original MATLAB implementation available in [https://g
 
 ## Install
 ```bash
-python -m pip install "git+https://github.com/JonasKas/DBCV_Batch"
+python -m pip install "git+https://github.com/JotaKas/DBCV_Batch"
 ```
 
 ---
